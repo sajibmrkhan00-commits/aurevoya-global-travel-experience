@@ -1,0 +1,6 @@
+{
+  "name": "Aurevoya Global Travel & Experience",
+  "description": "Complete International Travel Booking, Hajj & Umrah Operations, Visa Processing & Management Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
